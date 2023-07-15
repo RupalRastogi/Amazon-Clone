@@ -1,6 +1,6 @@
 # AmazonClone
 
-This is an Amazon Landing Page Clone purely made up of HTML and CSS.
+This is an Amazon Landing Page Clone purely made up of HTML(Hypertext Markup Language) and CSS(Cascading Style Sheets).
 
 MAIN SECTION
 
